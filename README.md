@@ -60,7 +60,9 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denyss-stack&show_icons=true&locale=en&layout=compact" alt="denyss-stack" /></p>
 
-<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)</p>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=Denyss-stack&theme=dark" alt="GitHub Streak">
+</a>
 
 
 

@@ -56,13 +56,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell Badge" />
 </a>
 
-
-
-[<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Denyss-stack&theme=dark" alt="GitHub Streak"></a>]
-
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Denyss-stack&layout=compact&langs_count=10">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denyss-stack&layout=compact&langs_count=10" alt="Top Langs">
 </a>
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Denyss-stack&theme=dark" alt="GitHub Streak"></a>
+
+
 
 
 

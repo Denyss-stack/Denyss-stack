@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denyss-stack&show_icons=true&locale=en&layout=compact" alt="denyss-stack" /></p>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Denyss-stack&layout=compact&langs_count=10&hide=html,css">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denyss-stack&layout=compact&langs_count=10&hide=html,css" alt="Top Langs">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Denyss-stack&layout=compact&langs_count=10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denyss-stack&layout=compact&langs_count=10" alt="Top Langs">
 </a>
 
 

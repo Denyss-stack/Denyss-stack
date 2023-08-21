@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 
 
-<p>[<a href="https://git.io/streak-stats">![GitHub Streak](https://streak-stats.demolab.com/?user=Denyss-stack&theme=dark)</a>]</p>
+[<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Denyss-stack&theme=dark" alt="GitHub Streak"></a>]
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Denyss-stack&layout=compact&langs_count=10">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denyss-stack&layout=compact&langs_count=10" alt="Top Langs">

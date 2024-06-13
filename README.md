@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Denys</h1>
-<h3 align="center">A passionate embedded developer from Ukraine</h3>
+<h3 align="center">A passionate Electronic Engineer from Ukraine</h3>
 
 <!--
 **Denyss-stack/Denyss-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
